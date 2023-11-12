@@ -1,0 +1,341 @@
+[
+  {
+    "code": "100",
+    "description": "Do not honour"
+  },
+  {
+    "code": "101",
+    "description": "Expired Card"
+  },
+  {
+    "code": "102",
+    "description": "Suspected Fraud"
+  },
+  {
+    "code": "103",
+    "description": "Unused"
+  },
+  {
+    "code": "104",
+    "description": "Restricted Card"
+  },
+  {
+    "code": "105",
+    "description": "Unused"
+  },
+  {
+    "code": "106",
+    "description": "Allowable PIN Tries Exceeded"
+  },
+  {
+    "code": "107",
+    "description": "Refer to Card Issuer (not used)"
+  },
+  {
+    "code": "108",
+    "description": "Refer to Card Issuer’s Special Conditions (not used)"
+  },
+  {
+    "code": "109",
+    "description": "Invalid Merchant"
+  },
+  {
+    "code": "110",
+    "description": "Invalid Amount"
+  },
+  {
+    "code": "111",
+    "description": "Invalid Card Number (No such number)"
+  },
+  {
+    "code": "112",
+    "description": "PIN Data Required"
+  },
+  {
+    "code": "113",
+    "description": "Unused"
+  },
+  {
+    "code": "114",
+    "description": "No Account of Type Requested"
+  },
+  {
+    "code": "115",
+    "description": "Requested Function Not Supported"
+  },
+  {
+    "code": "116",
+    "description": "Not Sufficient Funds"
+  },
+  {
+    "code": "117",
+    "description": "Incorrect PIN"
+  },
+  {
+    "code": "118",
+    "description": "No Card Record"
+  },
+  {
+    "code": "119",
+    "description": "Transaction Not Permitted to Cardholder"
+  },
+  {
+    "code": "120",
+    "description": "Transaction Not Permitted to Terminal"
+  },
+  {
+    "code": "121",
+    "description": "Exceeds Withdrawal Amount Limit"
+  },
+  {
+    "code": "122",
+    "description": "Security Violation"
+  },
+  {
+    "code": "123",
+    "description": "Exceeds Withdrawal Frequency Limit"
+  },
+  {
+    "code": "124",
+    "description": "Violation of Law"
+  },
+  {
+    "code": "125",
+    "description": "Card not effective"
+  },
+  {
+    "code": "126",
+    "description": "Invalid PIN block"
+  },
+  {
+    "code": "127",
+    "description": "PIN length error"
+  },
+  {
+    "code": "128",
+    "description": "PIN key synchronization error"
+  },
+  {
+    "code": "129",
+    "description": "Suspect counterfeit"
+  },
+  {
+    "code": "165",
+    "description": "Not fulfil AML requirements"
+  },
+  {
+    "code": "166",
+    "description": "Incorrect Recipient PAN"
+  },
+  {
+    "code": "170",
+    "description": "Cardholder contact Issuer"
+  },
+  {
+    "code": "171",
+    "description": "PIN not changed"
+  },
+  {
+    "code": "177"
+  },
+  {
+    "code": "178",
+    "description": "ICC decline, after card-initiated referral"
+  },
+  {
+    "code": "179",
+    "description": "PIN change declined (new PIN unsafe)"
+  },
+  {
+    "code": "183",
+    "description": "No chequing account"
+  },
+  {
+    "code": "185",
+    "description": "CVV Validation Error"
+  },
+  {
+    "code": "188",
+    "description": "Restricted/No Funds"
+  },
+  {
+    "code": "189",
+    "description": "Sender name or narration field is empty"
+  },
+  {
+    "code": "190",
+    "description": "Transaction Count Limit Exceeded"
+  },
+  {
+    "code": "197",
+    "description": "ICC card authentication failed"
+  },
+  {
+    "code": "196",
+    "description": "Unable to locate subscriber phone number"
+  },
+  {
+    "code": "199",
+    "description": "Unable to locate subscriber account number"
+  },
+  {
+    "code": "200",
+    "description": "Do Not Honour"
+  },
+  {
+    "code": "201",
+    "description": "Expired Card"
+  },
+  {
+    "code": "202",
+    "description": "Suspected Fraud"
+  },
+  {
+    "code": "203",
+    "description": "Unused"
+  },
+  {
+    "code": "204",
+    "description": "Restricted Card"
+  },
+  {
+    "code": "205",
+    "description": "Unused"
+  },
+  {
+    "code": "206",
+    "description": "Allowable PIN Tries Exceeded"
+  },
+  {
+    "code": "207",
+    "description": "Special Conditions"
+  },
+  {
+    "code": "208",
+    "description": "Lost Card"
+  },
+  {
+    "code": "209",
+    "description": "Stolen Card"
+  },
+  {
+    "code": "285",
+    "description": "CVV Validation Error"
+  },
+  {
+    "code": "286",
+    "description": "Unable to locate subscriber phone number"
+  },
+  {
+    "code": "287",
+    "description": "Unable to locate subscriber account number"
+  },
+  {
+    "code": "288",
+    "description": "Fail to authenticate using password"
+  },
+  {
+    "code": "289",
+    "description": "Fail to retrieve subscriber name and address"
+  },
+  {
+    "code": "400",
+    "description": "Accepted"
+  },
+  {
+    "code": "480",
+    "description": "Original transaction not found"
+  },
+  {
+    "code": "481",
+    "description": "Original transaction was found but declined"
+  },
+  {
+    "code": "482",
+    "description": "Duplicate Reversal"
+  },
+  {
+    "code": "800",
+    "description": "Accepted"
+  },
+  {
+    "code": "884",
+    "description": "Problem in signature verification"
+  },
+  {
+    "code": "886",
+    "description": "Problem with keys format"
+  },
+  {
+    "code": "892",
+    "description": "Transmission Date and Time Identical to Earlier Request"
+  },
+  {
+    "code": "902",
+    "description": "Invalid Transaction"
+  },
+  {
+    "code": "903",
+    "description": "Not used"
+  },
+  {
+    "code": "904",
+    "description": "Format Error"
+  },
+  {
+    "code": "905",
+    "description": "Acquirer Not Supported by Switch"
+  },
+  {
+    "code": "906",
+    "description": "Not used"
+  },
+  {
+    "code": "907",
+    "description": "Card Issuer or Switch Inoperative"
+  },
+  {
+    "code": "908",
+    "description": "Transaction Destination Cannot be Found for Routing"
+  },
+  {
+    "code": "909",
+    "description": "System Malfunction"
+  },
+  {
+    "code": "910",
+    "description": "Card Issuer Signed Off"
+  },
+  {
+    "code": "911",
+    "description": "Card Issuer Timed Out"
+  },
+  {
+    "code": "912",
+    "description": "Card Issuer Unavailable"
+  },
+  {
+    "code": "913",
+    "description": "Duplicate Transmission"
+  },
+  {
+    "code": "914",
+    "description": "Not Able to Trace Back to Original Transaction"
+  },
+  {
+    "code": "915",
+    "description": "Reconciliation, Cutover or Checkpoint Error"
+  },
+  {
+    "code": "916",
+    "description": "MAC incorrect"
+  },
+  {
+    "code": "917",
+    "description": "MAC key sync"
+  },
+  {
+    "code": "919",
+    "description": "Encryption Key Sync. Error"
+  }
+]
